@@ -175,12 +175,61 @@
    <li class="accordion-item" data-accordion-item>
     <a href="#" class="accordion-title" style="font-size: 30px;">Payment</a>
     <div class="accordion-content" style="font-size: 20px;" data-tab-content>
-        <fieldset class="fieldset">
-          <legend>Payment Option</legend>
-          <input id="checkbox12" type="checkbox"><label for="checkbox12">Visa</label>
-          <input id="checkbox22" type="checkbox"><label for="checkbox22">Mastercard</label>
-          <input id="checkbox32" type="checkbox"><label for="checkbox32">American Express</label>
-        </fieldset>
+        <div class="row">
+            <fieldset class="large-6 columns">
+                <legend>Method of Payment</legend>
+                <input type="radio" name="visa" value="visa" id="visa" required><label for="visa">Visa</label>
+                <input type="radio" name="master" value="master" id="master"><label for="master">MasterCard</label>
+                <input type="radio" name="amexp" value="amexp" id="amexp"><label for="amexp">American Express</label>
+              </fieldset>
+        </div>
+        
+        <div class="row">
+            <div class="medium-6 columns">
+              <label>First Name
+                <input type="text">
+              </label>
+            </div>
+              
+            <div class="medium-6 columns">
+              <label>Last Name
+                <input type="text">
+              </label>
+            </div>
+        </div>
+        
+        <div class="row">
+        <div class="medium-9 columns">
+              <label>Card Number
+                <input type="text">
+              </label>
+            </div>
+        <div class="medium-3 columns">
+            <label>CVV
+                <input type="text">
+            </label>    
+        </div>
+        </div>
+        
+        <div class="row">
+            <div class="medium-2 columns">
+                <label>Month
+                    <input type="text" placeholder="XX">
+                </label>
+            </div>
+            <div class="medium-2 columns end">
+                <label>Year
+                    <input type="text" placeholder="XXXX">
+                </label>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="medium columns">
+                <input type="submit" class="button" value="Submit">
+            </div>
+        </div>
+        
     </div>
   </li>
 </ul>
