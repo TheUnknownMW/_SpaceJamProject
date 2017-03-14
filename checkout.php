@@ -2,8 +2,7 @@
             require('modules/navbar.php') //Head
         ?>
       
-      
-    <div class="row column">
+     <div class="row column">
       
       <h2 style="padding-top: 50px; margin-left:10px">Checkout</h2>
       <ul class="accordion" data-accordion>

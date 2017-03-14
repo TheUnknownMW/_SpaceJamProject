@@ -2,7 +2,6 @@
             require('modules/navbar.php') //Head
         ?>
       
-      
       <div class="row column">
       
       <h2 style="padding-top: 50px; margin-left:10px">Cart</h2>

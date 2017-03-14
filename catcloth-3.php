@@ -2,7 +2,6 @@
             require('modules/navbar.php') //Head
         ?>
       
-      
       <div class="row" style="padding-top: 50px;">
         <div class="large-6 columns">
             <div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit>
