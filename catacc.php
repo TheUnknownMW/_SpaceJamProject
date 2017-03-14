@@ -16,7 +16,7 @@
       
       <div class="row" style="padding-top: 50px;">
           <div class="large-4 columns">
-              <a href="catacc-1.html">
+              <a href="catacc-1.php">
                 <div class="card">
                     <img src="images/acc-1/1.png">
                   </div>
@@ -24,7 +24,7 @@
         </div>
           
           <div class="large-4 columns">
-              <a href="catacc-2.html">
+              <a href="catacc-2.php">
           <div class="card">
         <img src="images/acc-2/1.png">
         </div>
@@ -32,7 +32,7 @@
         </div>
           
           <div class="large-4 columns">
-              <a href="catacc-3.html">
+              <a href="catacc-3.php">
           <div class="card">
             <img src="images/acc-3/1.png">
         </div>

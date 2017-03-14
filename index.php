@@ -66,7 +66,7 @@
           
         <div class="row">
           <div class="large-4 columns">
-              <a href="catspace-1.html">
+              <a href="catspace-1.php">
                 <div class="card">
                     <img src="images/space-1/1.png">
                   </div>
@@ -74,7 +74,7 @@
         </div>
           
           <div class="large-4 columns">
-              <a href="catcloth-3.html">
+              <a href="catcloth-3.php">
           <div class="card">
         <img src="images/cloth-3/2.png">
         </div>
@@ -82,7 +82,7 @@
         </div>
           
           <div class="large-4 columns">
-              <a href="cathome-2.html">
+              <a href="cathome-2.php">
           <div class="card">
             <img src="images/home-2/1.png">
         </div>

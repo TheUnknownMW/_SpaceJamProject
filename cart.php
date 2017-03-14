@@ -77,7 +77,7 @@
                 </div>
                 
                 <div class="large-2 columns">
-                    <a href="cart.html" class="button float-right">Update Cart</a>
+                    <a href="cart.php" class="button float-right">Update Cart</a>
                 </div>
                 
                  </div>
@@ -89,7 +89,7 @@
                      
                      <div class="large column">
                 
-                    <a href="checkout.html" class="button expanded">Go to checkout</a>
+                    <a href="checkout.php" class="button expanded">Go to checkout</a>
                          
                          </div>
                 

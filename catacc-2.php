@@ -60,7 +60,7 @@
                 </div>
               </div>
               <div class="row">
-                <a class="button expanded" href="cart.html">Add to cart</a>
+                <a class="button expanded" href="cart.php">Add to cart</a>
               </div>
               
           </div>
@@ -73,7 +73,7 @@
       <div class="row">
         <div class="row" style="padding-top: 50px;">
           <div class="large-4 columns">
-              <a href="catacc-1.html">
+              <a href="catacc-1.php">
                 <div class="card">
                     <img src="images/acc-1/1.png">
                   </div>
@@ -81,7 +81,7 @@
         </div>
           
           <div class="large-4 columns">
-              <a href="catacc-3.html">
+              <a href="catacc-3.php">
           <div class="card">
         <img src="images/acc-3/1.png">
         </div>
@@ -89,7 +89,7 @@
         </div>
           
           <div class="large-4 columns">
-              <a href="catspace-3.html">
+              <a href="catspace-3.php">
           <div class="card">
             <img src="images/space-3.png">
         </div>
