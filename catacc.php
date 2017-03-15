@@ -14,26 +14,35 @@
           </div>
       </div>
       
-      <div class="row" style="padding-top: 50px;">
-          <div class="large-4 columns">
+      <div class="row small-up-1 medium-up-3" style="padding-top: 50px;">
+          <div class="columns">
               <a href="catacc-1.php">
                 <div class="card">
+                   <div class="card-divider">
+                        <h5>"Magestic Spacey" Pink Used Space Jam DVD Water Bottle</h5>
+                   </div>
                     <img src="images/acc-1/1.png">
                   </div>
                 </a>
         </div>
           
-          <div class="large-4 columns">
+          <div class="columns">
               <a href="catacc-2.php">
           <div class="card">
+          <div class="card-divider">
+                        <h5>"Jammin" Green Used Space Jam DVD Water Bottle</h5>
+                   </div>
         <img src="images/acc-2/1.png">
         </div>
                   </a>
         </div>
           
-          <div class="large-4 columns">
+          <div class="columns">
               <a href="catacc-3.php">
           <div class="card">
+           <div class="card-divider">
+                        <h5>"Loser's Tears" Blue Used Space Jam DVD Water Bottle</h5>
+                   </div>
             <img src="images/acc-3/1.png">
         </div>
                   </a>

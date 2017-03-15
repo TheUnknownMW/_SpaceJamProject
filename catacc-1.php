@@ -8,14 +8,14 @@
                   <ul class="orbit-container">
                     <button class="orbit-previous" aria-label="previous"><span class="show-for-sr">Previous Slide</span>&#9664;</button>
                     <button class="orbit-next" aria-label="next"><span class="show-for-sr">Next Slide</span>&#9654;</button>
-                    <li class="orbit-slide">
-                      <img class="orbit-image" src="images/acc-1/1.png" alt="Space" style="height: 400px;">
+                    <li class="is-active orbit-slide">
+                      <img class="orbit-image" src="images/acc-1/1.png" alt="Space" style="height: 100%;">
                     </li>
                     <li class="orbit-slide">
-                      <img class="orbit-image" src="images/acc-1/2.png" alt="Space" style="height: 400px;">
+                      <img class="orbit-image" src="images/acc-1/2.png" alt="Space" style="height: 100%;">
                     </li>
                     <li class="orbit-slide">
-                      <img class="orbit-image" src="images/acc-1/3.png" alt="Space" style="height: 400px;">
+                      <img class="orbit-image" src="images/acc-1/3.png" alt="Space" style="height: 100%;">
                     </li>
                   </ul>
                   <nav class="orbit-bullets">
@@ -23,6 +23,8 @@
                    <button data-slide="1"><span class="show-for-sr">Second slide details.</span></button>
                    <button data-slide="2"><span class="show-for-sr">Third slide details.</span></button>
                  </nav>
+                </div>
+                <div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit>
                 </div>
             </div>
           
@@ -71,7 +73,7 @@
       </div>
       
       <div class="row">
-        <div class="row" style="padding-top: 50px;">
+         <div class="row small-up-1 medium-up-3"  style="padding-top: 50px;">
           <div class="large-4 columns">
               <a href="catacc-2.php">
                 <div class="card">

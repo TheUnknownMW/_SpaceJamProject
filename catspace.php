@@ -15,31 +15,40 @@
       </div>
       
       
-      <div class="row" style="padding-top: 50px;">
-          <div class="large-4 columns">
-              <a href="catspace-1.php">
-                <div class="card">
-                    <img src="images/space-1/1.png">
-                  </div>
-                </a>
-        </div>
-          
-          <div class="large-4 columns">
-              <a href="catspace-2.php">
-          <div class="card">
-        <img src="images/space-2/1.png">
-        </div>
-                  </a>
-        </div>
-          
-          <div class="large-4 columns">
-              <a href="catspace-3.php">
-          <div class="card">
-            <img src="images/space-3.png">
-        </div>
-                  </a>
-        </div>
-      </div>
+      <div class="row small-up-1 medium-up-3" style="padding-top: 50px;">
+    <div class="columns">
+        <a href="catspace-1.php">
+            <div class="card">
+                <div class="card-divider">
+                    <h5>Space Jam DVD</h5>
+                </div>
+                <img src="images/space-1/1.png">
+            </div>
+        </a>
+    </div>
+
+    <div class="columns">
+        <a href="catspace-2.php">
+            <div class="card">
+                <div class="card-divider">
+                    <h5>Super Space Jam DVD</h5>
+                </div>
+                <img src="images/space-2/1.png">
+            </div>
+        </a>
+    </div>
+
+    <div class="columns">
+        <a href="catspace-3.php">
+            <div class="card">
+                <div class="card-divider">
+                    <h5>Space Jam Backdrop</h5>
+                </div>
+                <img src="images/space-3.png">
+            </div>
+        </a>
+    </div>
+</div>
      
       
       

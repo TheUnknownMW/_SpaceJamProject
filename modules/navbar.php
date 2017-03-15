@@ -12,7 +12,7 @@
   </head>
       <body style="background-color: #B6A19E">
        <div class="large-3 columns">
-        <a href="index.html">
+        <a href="index.php">
         <img src="images/logo.png">
             </a>
     </div>     
