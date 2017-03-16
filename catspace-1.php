@@ -9,13 +9,13 @@
                     <button class="orbit-previous" aria-label="previous"><span class="show-for-sr">Previous Slide</span>&#9664;</button>
                     <button class="orbit-next" aria-label="next"><span class="show-for-sr">Next Slide</span>&#9654;</button>
                     <li class="orbit-slide">
-                      <img class="orbit-image" src="images/space-1/1.png" alt="Space" style="height: 400px;">
+                      <img class="orbit-image" src="images/space-1/1.png" alt="Space" >
                     </li>
                     <li class="orbit-slide">
-                      <img class="orbit-image" src="images/space-1/2.png" alt="Space" style="height: 400px;">
+                      <img class="orbit-image" src="images/space-1/2.png" alt="Space" >
                     </li>
                     <li class="orbit-slide">
-                      <img class="orbit-image" src="images/space-1/3.png" alt="Space" style="height: 400px;">
+                      <img class="orbit-image" src="images/space-1/3.png" alt="Space" >
                     </li>
                   </ul>
                   <nav class="orbit-bullets">

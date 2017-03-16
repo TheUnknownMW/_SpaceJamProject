@@ -32,7 +32,7 @@
           <div class="card-divider">
                         <h5>The Used Space Jam DVD T-Shirt</h5>
                    </div>
-        <img src="images/cloth-2/shirt2.png">
+        <img src="images/cloth-2/2.png">
         </div>
                   </a>
         </div>
