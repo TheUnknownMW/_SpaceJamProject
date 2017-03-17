@@ -2,36 +2,38 @@
             require('modules/navbar.php') //Head
         ?>
       
-      <div class="row">
-      <div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit>
-  <ul class="orbit-container">
-    <button class="orbit-previous" aria-label="previous"><span class="show-for-sr">Previous Slide</span>&#9664;</button>
-    <button class="orbit-next" aria-label="next"><span class="show-for-sr">Next Slide</span>&#9654;</button>
-    <li class="orbit-slide">
-      <img class="orbit-image" src="images/home-1/1.png" alt="Space" style="height: 400px;">
-      <figcaption class="orbit-caption">Lets Rocket!</figcaption>
-    </li>
-    <li class="orbit-slide">
-      <img class="orbit-image" src="images/cloth-2/shirt2.png" alt="Space" style="height: 400px;">
-      <figcaption class="orbit-caption">Lets Rocket!</figcaption>
-    </li>
-    <li class="orbit-slide">
-      <img class="orbit-image" src="images/acc-2/3.png" alt="Space" style="height: 400px;">
-      <figcaption class="orbit-caption">Lets Rocket!</figcaption>
-    </li>
-    <li class="orbit-slide">
-      <img class="orbit-image" src="images/space-3.png" alt="Space" style="height: 400px;">
-      <figcaption class="orbit-caption">Lets Rocket!</figcaption>
-    </li>
-  </ul>
-  <nav class="orbit-bullets">
-   <button class="is-active" data-slide="0"><span class="show-for-sr">First slide details.</span><span class="show-for-sr">Current Slide</span></button>
-   <button data-slide="1"><span class="show-for-sr">Second slide details.</span></button>
-   <button data-slide="2"><span class="show-for-sr">Third slide details.</span></button>
-   <button data-slide="3"><span class="show-for-sr">Fourth slide details.</span></button>
- </nav>
+      <div class="row" style="padding-top: 50px;">
+    <div class="columns">
+        <div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit>
+            <ul class="orbit-container">
+               
+                <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
+                <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9664;&#xFE0E;</button>
+                
+                <li class="is-active orbit-slide">
+                    <img class="orbit-image" src="images/slideshow/1.png" alt="product1">
+                </li>
+                
+                <li class="orbit-slide">
+                    <img class="orbit-image" src="images/slideshow/2.png" alt="product2">
+                </li>
+                
+                <li class="orbit-slide">
+                    <img class="orbit-image" src="images/slideshow/3.png" alt="product3">
+                </li>
+                
+            </ul>
+            <nav class="orbit-bullets">
+               
+                <button class="is-active" data-slide="0"><span class="show-for-sr">First slide details.</span><span class="show-for-sr">Current Slide</span></button>
+                <button data-slide="1"><span class="show-for-sr">Second slide details.</span></button>
+                <button data-slide="2"><span class="show-for-sr">Third slide details.</span></button>
+                <button data-slide="3"><span class="show-for-sr">Fourth slide details.</span></button>
+                
+            </nav>
+        </div>
+    </div>
 </div>
-          </div>
       
       
       

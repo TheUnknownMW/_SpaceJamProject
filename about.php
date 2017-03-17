@@ -19,6 +19,7 @@
                 <p><b>Nick Keil</b></p>
                 <p><i>"Whoa ho ho! I don't play defense."</i></p>
                 <p class="text-right">-Bill Murray</p>
+                <p><i>Roles: Coder, Photoshopper, GitHubber, Inspiration</i></p>
             </div>
         </div>
         </div>
@@ -30,6 +31,7 @@
                 <p><b>Evan Lake</b></p>
                 <p><i>"Despite all my NBA accomplishments, my biggest one will always be Space Jam."</i></p>
                 <p class="text-right">-Michael B. Jordan</p>
+                <p><i>Roles: Coder, Motivator</i></p>
             </div>
         </div>
         </div>
@@ -41,17 +43,19 @@
                 <p><b>Mike Markarian</b></p>
                 <p><i>"You ever heard of the Dream Team? Well, we're the Mean Team, wussy man."</i></p>
                 <p class="text-right">-Nerdluck Pound</p>
+                <p><i>Roles: Photoshopper, Comedic Relief</i></p>
             </div>
         </div>
         </div>
           
           <div class="large-3 columns">
           <div class="card">
-        <img src="images/about-photos/brooke.png">
+        <img src="images/about-photos/brook.png">
             <div class="card-section">
                 <p><b>Brooke Bahn</b></p>
                 <p><i>"It's 'cause I'm white, isn't it?"</i></p>
                 <p class="text-right">-Bill Murray</p>
+                <p><i>Roles: Coder, Foundationer, All-Nighter</i></p>
             </div>
         </div>
         </div>
