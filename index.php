@@ -11,15 +11,15 @@
                 <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9664;&#xFE0E;</button>
                 
                 <li class="is-active orbit-slide">
-                    <img class="orbit-image" src="images/home-1.png" alt="product1">
+                    <img class="orbit-image" src="images/slideshow-1.png" alt="product1">
                 </li>
                 
                 <li class="orbit-slide">
-                    <img class="orbit-image" src="images/home-2.png" alt="product2">
+                    <img class="orbit-image" src="images/slideshow-2.png" alt="product2">
                 </li>
                 
                 <li class="orbit-slide">
-                    <img class="orbit-image" src="images/home-3.png" alt="product3">
+                    <img class="orbit-image" src="images/slideshow-3.png" alt="product3">
                 </li>
                 
             </ul>
