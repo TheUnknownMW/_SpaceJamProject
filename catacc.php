@@ -21,7 +21,7 @@
                    <div class="card-divider">
                         <h5>"Magestic Spacey" Pink Used Space Jam DVD Water Bottle</h5>
                    </div>
-                    <img src="images/acc-1/1.png">
+                    <img src="images/acc1-1.png">
                   </div>
                 </a>
         </div>
@@ -32,7 +32,7 @@
           <div class="card-divider">
                         <h5>"Jammin" Green Used Space Jam DVD Water Bottle</h5>
                    </div>
-        <img src="images/acc-2/1.png">
+        <img src="images/acc2-1.png">
         </div>
                   </a>
         </div>
@@ -43,7 +43,7 @@
            <div class="card-divider">
                         <h5>"Loser's Tears" Blue Used Space Jam DVD Water Bottle</h5>
                    </div>
-            <img src="images/acc-3/1.png">
+            <img src="images/acc3-1.png">
         </div>
                   </a>
         </div>

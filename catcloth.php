@@ -21,7 +21,7 @@
                    <div class="card-divider">
                        <h5>Used Space Jam DVD Sandals</h5>
                    </div>
-                    <img src="images/cloth-1/1.png">
+                    <img src="images/cloth1-1.png">
                   </div>
                 </a>
         </div>
@@ -32,7 +32,7 @@
           <div class="card-divider">
                         <h5>The Used Space Jam DVD T-Shirt</h5>
                    </div>
-        <img src="images/cloth-2/2.png">
+        <img src="images/cloth2-2.png">
         </div>
                   </a>
         </div>
@@ -43,7 +43,7 @@
            <div class="card-divider">
                         <h5>The New and Improved Used Space Jam DVD Sandals</h5>
                    </div>
-            <img src="images/cloth-3/2.png">
+            <img src="images/cloth3-2.png">
         </div>
                   </a>
         </div>

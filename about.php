@@ -14,7 +14,7 @@
       <div class="row">
           <div class="large-3 columns">
           <div class="card">
-        <img src="images/about-photos/nik.png">
+        <img src="images/about-nick.png">
             <div class="card-section">
                 <p><b>Nick Keil</b></p>
                 <p><i>"Whoa ho ho! I don't play defense."</i></p>
@@ -26,7 +26,7 @@
           
           <div class="large-3 columns">
           <div class="card">
-        <img src="images/about-photos/evan.png">
+        <img src="images/about-evan.png">
             <div class="card-section">
                 <p><b>Evan Lake</b></p>
                 <p><i>"Despite all my NBA accomplishments, my biggest one will always be Space Jam."</i></p>
@@ -38,7 +38,7 @@
           
           <div class="large-3 columns">
           <div class="card">
-        <img src="images/about-photos/mike.png">
+        <img src="images/about-mike.png">
             <div class="card-section">
                 <p><b>Mike Markarian</b></p>
                 <p><i>"You ever heard of the Dream Team? Well, we're the Mean Team, wussy man."</i></p>
@@ -50,7 +50,7 @@
           
           <div class="large-3 columns">
           <div class="card">
-        <img src="images/about-photos/brook.png">
+        <img src="images/about-brooke.png">
             <div class="card-section">
                 <p><b>Brooke Bahn</b></p>
                 <p><i>"It's 'cause I'm white, isn't it?"</i></p>

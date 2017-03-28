@@ -9,13 +9,13 @@
                     <button class="orbit-previous" aria-label="previous"><span class="show-for-sr">Previous Slide</span>&#9664;</button>
                     <button class="orbit-next" aria-label="next"><span class="show-for-sr">Next Slide</span>&#9654;</button>
                     <li class="orbit-slide">
-                      <img class="orbit-image" src="images/space-2/1.png" alt="Space" >
+                      <img class="orbit-image" src="images/space2-1.png" alt="Space" >
                     </li>
                     <li class="orbit-slide">
-                      <img class="orbit-image" src="images/space-2/2.jpg" alt="Space" >
+                      <img class="orbit-image" src="images/space2-2.jpg" alt="Space" >
                     </li>
                     <li class="orbit-slide">
-                      <img class="orbit-image" src="images/space-2/3.png" alt="Space" >
+                      <img class="orbit-image" src="images/space2-3.png" alt="Space" >
                     </li>
                   </ul>
                   <nav class="orbit-bullets">
@@ -74,7 +74,7 @@
           <div class="large-4 columns">
               <a href="catspace-1.php">
                 <div class="card">
-                    <img src="images/space-1/1.png">
+                    <img src="images/space1-1.png">
                   </div>
                 </a>
         </div>
@@ -90,7 +90,7 @@
           <div class="large-4 columns">
               <a href="catcloth-2.php">
           <div class="card">
-            <img src="images/cloth-2/2.png">
+            <img src="images/cloth2-2.png">
         </div>
                   </a>
         </div>

@@ -9,13 +9,13 @@
                     <button class="orbit-previous" aria-label="previous"><span class="show-for-sr">Previous Slide</span>&#9664;</button>
                     <button class="orbit-next" aria-label="next"><span class="show-for-sr">Next Slide</span>&#9654;</button>
                     <li class="is-active orbit-slide">
-                      <img class="orbit-image" src="images/acc-1/1.png" alt="Space" style="height: 100%;">
+                      <img class="orbit-image" src="images/acc1-1.png" alt="Space" style="height: 100%;">
                     </li>
                     <li class="orbit-slide">
-                      <img class="orbit-image" src="images/acc-1/2.png" alt="Space" style="height: 100%;">
+                      <img class="orbit-image" src="images/acc1-2.png" alt="Space" style="height: 100%;">
                     </li>
                     <li class="orbit-slide">
-                      <img class="orbit-image" src="images/acc-1/3.png" alt="Space" style="height: 100%;">
+                      <img class="orbit-image" src="images/acc1-3.png" alt="Space" style="height: 100%;">
                     </li>
                   </ul>
                   <nav class="orbit-bullets">
@@ -30,7 +30,7 @@
           
           <div class="large-6 columns">
             <div class="row" class="text-center">
-              <h1>Used Space Jam DVD Water Bottle</h1>
+              <h1>"Magestic Spacey" Pink Used Space Jam DVD Water Bottle</h1>
             </div>
             <div class="row">
               <h6>This water is one of the best drinks in the entire world, second only to Michael's secret stuff whose ingredients remain a mystery. It will refresh you so you can get into the game, and by game I mean a Used Space Jam DVD.</h6>
@@ -77,7 +77,7 @@
           <div class="large-4 columns">
               <a href="catacc-2.php">
                 <div class="card">
-                    <img src="images/acc-2/1.png">
+                    <img src="images/acc2-1.png">
                   </div>
                 </a>
         </div>
@@ -85,7 +85,7 @@
           <div class="large-4 columns">
               <a href="catacc-3.php">
           <div class="card">
-        <img src="images/acc-3/1.png">
+        <img src="images/acc3-1.png">
         </div>
                   </a>
         </div>
@@ -93,7 +93,7 @@
           <div class="large-4 columns">
               <a href="catspace-1.php">
           <div class="card">
-            <img src="images/space-1/1.png">
+            <img src="images/space1-1.png">
         </div>
                   </a>
         </div>

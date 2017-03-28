@@ -21,7 +21,7 @@
                    <div class="card-divider">
                         <h5>Used Space Jam DVD Chair</h5>
                    </div>
-                    <img src="images/home-1/1.png">
+                    <img src="images/home1-1.png">
                   </div>
                 </a>
         </div>
@@ -32,7 +32,7 @@
           <div class="card-divider">
                         <h5>Used Space Jam Emergency Slam</h5>
                    </div>
-        <img src="images/home-2/1.png">
+        <img src="images/home2-1.png">
         </div>
                   </a>
         </div>
@@ -43,7 +43,7 @@
            <div class="card-divider">
                         <h5>Deluxe Used Space Jam DVD Chair</h5>
                    </div>
-            <img src="images/home-3/1.png">
+            <img src="images/home3-1.png">
         </div>
                   </a>
         </div>

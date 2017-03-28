@@ -22,7 +22,7 @@
                 <div class="card-divider">
                     <h5>Space Jam DVD</h5>
                 </div>
-                <img src="images/space-1/1.png">
+                <img src="images/space1-1.png">
             </div>
         </a>
     </div>
@@ -33,7 +33,7 @@
                 <div class="card-divider">
                     <h5>Super Space Jam DVD</h5>
                 </div>
-                <img src="images/space-2/1.png">
+                <img src="images/space2-1.png">
             </div>
         </a>
     </div>

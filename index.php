@@ -11,15 +11,15 @@
                 <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9664;&#xFE0E;</button>
                 
                 <li class="is-active orbit-slide">
-                    <img class="orbit-image" src="images/slideshow/1.png" alt="product1">
+                    <img class="orbit-image" src="images/home-1.png" alt="product1">
                 </li>
                 
                 <li class="orbit-slide">
-                    <img class="orbit-image" src="images/slideshow/2.png" alt="product2">
+                    <img class="orbit-image" src="images/home-2.png" alt="product2">
                 </li>
                 
                 <li class="orbit-slide">
-                    <img class="orbit-image" src="images/slideshow/3.png" alt="product3">
+                    <img class="orbit-image" src="images/home-3.png" alt="product3">
                 </li>
                 
             </ul>
@@ -70,7 +70,7 @@
           <div class="large-4 columns">
               <a href="catspace-1.php">
                 <div class="card">
-                    <img src="images/space-1/1.png">
+                    <img src="images/space1-1.png">
                   </div>
                 </a>
         </div>
@@ -78,7 +78,7 @@
           <div class="large-4 columns">
               <a href="catcloth-3.php">
           <div class="card">
-        <img src="images/cloth-3/2.png">
+        <img src="images/cloth3-2.png">
         </div>
                   </a>
         </div>
@@ -86,7 +86,7 @@
           <div class="large-4 columns">
               <a href="cathome-2.php">
           <div class="card">
-            <img src="images/home-2/1.png">
+            <img src="images/home2-1.png">
         </div>
                   </a>
         </div>
