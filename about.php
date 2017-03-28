@@ -61,8 +61,20 @@
         </div>
           
           
+          <div class="row"><h1 class="columns">And Our Founder:</h1></div>
 
-
+        </div>
+        <div class="row">
+            <div class="columns">
+          <div class="card">
+        <img src="images/extras/space-05.jpg">
+            <div class="card-section">
+                <p><b>Michael Jordan</b></p>
+                <p><i>"It's 'cause I'm white, isn't it?"</i></p>
+                <p class="text-right">-Bill Murray</p>
+            </div>
+        </div>
+        </div>
         </div>
 
 
